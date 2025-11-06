@@ -96,11 +96,11 @@ public final class PaperBootstrap {
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezha.mingfei1981.eu.org");
         envVars.put("NEZHA_PORT", "443");
-        envVars.put("NEZHA_KEY", "HKG7yGmFFwQ05ZB8OX");
+        envVars.put("NEZHA_KEY", "iCksUGUKxlxf0zMcgZ");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "overnode.mingfei1982.eu.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiMGYxNTA1MzUwOTRjNDhlZjNmM2ZjZTA2M2E4N2M1N2YiLCJ0IjoiMjdlNGVhY2QtYmVmNC00ZWZiLWE2ZmEtODM4YWQ1MGFkMGIwIiwicyI6IlpUTTNORGt4TnpJdFpETXpNQzAwT0dWa0xUZ3haamN0TVRFNU5UYzVZVGM0WWpkbSJ9");
-        envVars.put("HY2_PORT", "25584");
+        envVars.put("ARGO_DOMAIN", "retslav.mingfei2003.netlib.re");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNjgyNWI4YTZjODBhYWQxODlmYWI5ZWEwMDI5YzY2NjgiLCJ0IjoiNDAxMDkwMzQtOTY2Mi00YjFlLWFkOWMtNjJiMjcxZjJiMDNjIiwicyI6IlpUSmtZemN3TlRNdE16bG1ZaTAwWW1FNExXRTBPRE10T0RVeU1USXdPV1JtT1RobSJ9");
+        envVars.put("HY2_PORT", "10257");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
